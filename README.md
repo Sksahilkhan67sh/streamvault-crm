@@ -1,5 +1,3 @@
-# StreamVault CRM
-
 A production-ready **Client Lead Management System** built with the MERN stack. Capture leads from a public contact form, manage them through a full admin dashboard with status tracking, notes, follow-ups, and activity logs.
 
 ![StreamVault CRM](https://img.shields.io/badge/Stack-MERN-6ee7b7?style=for-the-badge)
@@ -295,5 +293,11 @@ Password: admin123
 ## License
 
 MIT © StreamVault CRM
-#   s t r e a m v a u l t - c r m  
+#
+
+## License
+
+MIT © StreamVault CRM
+#   s t r e a m v a u l t - c r m 
+ 
  
